@@ -66,9 +66,3 @@ img {
   height: 7.5rem;
   border-radius: 100%;
 }
-
-.card :hover{
-    color:black;
-    /* scale:1.1; */
-
-}
